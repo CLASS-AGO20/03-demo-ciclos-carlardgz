@@ -30,4 +30,4 @@ export default class App {
 
 let app = new App();
 
-console.log(app.contarImparesFor(5, 11));
+console.log(app.contarImparesFor(11, 5));
